@@ -33,7 +33,7 @@ int main(){
        } 
     }
     if(wrong == 1) cout<<"NO"<<endl;
-    else cout<<"YES"<<endl;
+    else cout<<"yes"<<endl;
     m.clear();
     }
     }
